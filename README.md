@@ -159,3 +159,9 @@ For issues and questions:
 2. Verify system requirements
 3. Review the troubleshooting section
 4. Check Xilinx documentation for Yocto-specific issues
+
+
+
+
+
+Upload the Encrypted file with Correct version number as required and the same file will be downloaded only if the decryption key matches .
